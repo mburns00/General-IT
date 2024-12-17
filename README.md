@@ -2,6 +2,8 @@
 
 This project involves conducting a comprehensive network vulnerability assessment and proposing strategic solutions to enhance the security posture of an enterprise network. The focus is on identifying critical threats, assessing vulnerabilities, and implementing effective countermeasures to safeguard network infrastructure.
 
+Using a VM to host a server and a CyberOps VM, I created my own SIEM environment to conduct tests to detect vulnerabilities.
+
 ---
 
 ## Project Overview
